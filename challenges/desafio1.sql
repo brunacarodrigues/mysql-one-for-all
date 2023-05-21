@@ -1,3 +1,5 @@
+-- Iniciando Projeto MySQL One For All
+
 -- Descomente e altere as linhas abaixo:
 
 -- DROP DATABASE IF EXISTS SpotifyClone;
