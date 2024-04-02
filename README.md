@@ -1,10 +1,2 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Projeto do módulo de Back-End.
+Conceitos de modelagem de dados, normalização de bancos de dados até a terceira forma normal para evitar redundância e inconsistências, consultas SQL para recuperar informações específicas de um banco de dados relacional, agregação de dados para análise estatística, elaboração de relatórios utilizando dados de diferentes tabelas, consultas complexas e extração de informações relevantes. Além disso, abordam também análise de dados para tomada de decisão e identificação de padrões de uso.
